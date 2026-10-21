@@ -90,3 +90,7 @@ build/bin/mysql -u root  -e "SHOW STATUS LIKE 'Rpl_semi_sync_source_status';";
 see [bench/README.md]
 
 ## How to Contribute
+
+## Acknowledgments
+
+This work is partially based on results obtained from the project "Research and Development Project of the Enhanced Infrastructures for Post-5G Information and Communication Systems (JPNP20017)" by the New Energy and Industrial Technology Development Organization (NEDO).
