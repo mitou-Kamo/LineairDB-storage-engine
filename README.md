@@ -76,6 +76,7 @@ rpl_semi_sync_source_wait_for_replica_count = 1
 ```
 
 
+```bash
 # verify semi-sync replication setup is successful.
 
 # OK if the command returns the number of replicas
